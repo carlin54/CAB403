@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1474942756 source:/home/richard/Workspace/CAB403/server/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<assert.h>
+	<pthread.h>
+
